@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Cossette Titre';
+    src: url('assets/fonts/cossette-titre.regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+h1 {
+    font-family: 'Cossette Titre', sans-serif;
+    font-size: 48px;
+}
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
